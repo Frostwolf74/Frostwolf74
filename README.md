@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frostwolf74
 - 👀 I’m interested in Java and C
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord: Frostwolf74#6165. Please make your opening message mention Github
 
 <!---
