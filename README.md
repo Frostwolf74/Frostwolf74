@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frostwolf74
-- 👀 I’m interested in Java, C, HTML and Javascript
-- 🌱 I’m currently learning Python, HTML and Javascript
+- 👀 I’m interested in Java, C, HTML, Javascript and Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: Discord: Frostwolf74#6165. Please make your opening message mention Github
 
 <!---
