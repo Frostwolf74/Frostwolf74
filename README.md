@@ -1,6 +1,6 @@
 **Hey, I'm Frostwolf74, but I also go by Frost.**
 <br/>
-You can find me at ![Static Badge](https://img.shields.io/badge/frostwolf74-x?logo=Discord&label=Discord&labelColor=%232C2F33&color=%237785CC&link=https%3A%2F%2Fdiscord.com%2Fapp), please mention immediately that you found me through GitHub.
+You can find me at [![Static Badge](https://img.shields.io/badge/frostwolf74-x?logo=Discord&label=Discord&labelColor=%232C2F33&color=%237785CC)](https://discord.com/app), please mention immediately that you found me through GitHub.
 <br/><br/>
 
 I'm currently pursuing a diploma in Software Development at Southern Alberta Institute of Technology.
