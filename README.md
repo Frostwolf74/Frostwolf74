@@ -14,7 +14,7 @@ I'm currently pursuing a diploma in Software Development at Southern Alberta Ins
 ### My Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,arch,linux)](https://skillicons.dev)
 
-### Profile Statistics
+### Profile Statistics ![Profile Views](https://komarev.com/ghpvc/?username=Frostwolf74)
 <a href="https://github.com/Frostwolf74">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frostwolf74&theme=transparent" />
 </a>
