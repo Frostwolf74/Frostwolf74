@@ -1,14 +1,15 @@
-<!--- 👋 Hi, I’m @Frostwolf74
-- 👀 I’m interested in Java, C, HTML, Javascript and Python
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: Discord: Frostwolf74#6165. Please make your opening message mention Github
---->
-<!---
-Frostwolf74/Frostwolf74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Hey, I'm Frostwolf74, but you can call me Frost.**
+<br/>
+You can find me at ![Static Badge](https://img.shields.io/badge/frostwolf74-x?logo=Discord&label=Discord&labelColor=%232C2F33&color=%237785CC&link=https%3A%2F%2Fdiscord.com%2Fapp), please mention immediately that you found me through GitHub.
+<br/><br/>
 
-### My stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,postgres)](https://skillicons.dev)
+### My Stack
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,py,js,cs,postgres)](https://skillicons.dev)
+
+### My Tools
+[![My Skills](https://skillicons.dev/icons?i=eclipse,arduino,unity,idea,pycharm,vscode,bash,vim,rider,visualstudio)](https://skillicons.dev)
+
+### My Platforms
+[![My Skills](https://skillicons.dev/icons?i=windows,arch,linux)](https://skillicons.dev)
 
